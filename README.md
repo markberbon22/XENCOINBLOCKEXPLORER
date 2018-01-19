@@ -1,4 +1,4 @@
-# Royalties-Blockchain-Explorer
+# Xencoin-Blockchain-Explorer
 Block explorer for Royalties CryptoNote based cryptocurrency.
 
 #### Installation
