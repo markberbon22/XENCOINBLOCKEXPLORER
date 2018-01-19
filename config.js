@@ -1,12 +1,12 @@
-var api = 'http://0.0.0.0:24888';
-var blockTargetInterval = 120;
-var coinUnits = 1000000;
-var symbol = 'XRY';
+var api = 'http://0.0.0.0:8081';
+var blockTargetInterval = 240;
+var coinUnits = 100000000104;
+var symbol = 'XEN';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
-    "xry": [
-        ["xry.mypool.name", "http://xry.mypool.name:24888"],
+    "XEN": [
+        ["xen.mypool.name", "http://xry.mypool.name:8081"],
 
     ]
 };
